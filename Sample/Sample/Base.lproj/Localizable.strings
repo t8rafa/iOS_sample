@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Sample
+
+  Created by Rafael Alencar Trisotto on 22/03/15.
+  Copyright (c) 2015 T8 Studio de Tecnologia. All rights reserved.
+*/
+
+
+"introduction_title" = "Intro";
+"introduction_header" = "Sample App";
+"introduction_text" = "Consists of completing some information to apply for developer jobs";
+"introduction_button" = "Start";
+
+
+
+
+"registration_title" = "Registration";
+"registration_section1_title" = "Your data";
+"registration_invalid" = "You must enter at least name and email";
+
+"registration_section2_title" = "Assess your skills";
+"registration_section2_footer" = "Check from 0 (I don't know) to 10 (I'm fuck)";
+
+"registration_name" = "Name";
+"registration_email" = "Email";
+
+"registration_confirm_title" = "Send";
+"registration_confirm_text" = "Do you confirm the transmission of information?";
+
+"registration_sending" = "Sending your information";
+"registration_success" = "Registration successfully completed";
+"registration_rejected" = "😠 | The email address you entered does not appear to exist.";
+"registration_error" = "😢 It seems that our system is busy. Please try again later.";
+
+
+
+"alert_yes" = "Yes";
+"alert_no" = "Cancel";

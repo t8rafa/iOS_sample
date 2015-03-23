@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Sample
+
+  Created by Rafael Alencar Trisotto on 22/03/15.
+  Copyright (c) 2015 T8 Studio de Tecnologia. All rights reserved.
+*/
+
+
+"introduction_title" = "Intro";
+"introduction_header" = "Aplicativo de exemplo";
+"introduction_text" = "Consiste no preenchimento de algumas informações para se candidatar a vagas de desenvolvedor";
+"introduction_button" = "Iniciar";
+
+
+
+
+"registration_title" = "Cadastro";
+"registration_section1_title" = "Seus dados";
+"registration_invalid" = "É necessário informar ao menos nome e email";
+
+"registration_section2_title" = "Avalie suas habilidades";
+"registration_section2_footer" = "Assinale de 0 (não conheço) até 10 (sou foda)";
+
+"registration_name" = "Nome";
+"registration_email" = "Email";
+
+"registration_confirm_title" = "Enviar";
+"registration_confirm_text" = "Confirmas o envio destas informações?";
+
+"registration_sending" = "Enviando suas informações";
+"registration_success" = "Cadastro realizado com sucesso";
+"registration_rejected" = "😠 | O email informado parece não existir.";
+"registration_error" = "😢 | Parece que o nosso sistema não está respondendo. Por favor, tente novamente mais tarde.";
+
+
+
+
+
+"alert_yes" = "Sim";
+"alert_no" = "Cancelar";
